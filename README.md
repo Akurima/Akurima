@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<p align="center"><picture align="center"><img align="center" src = "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/113890dcec5607b287aeb3b86e2fc7b1-1680176427/IT-office_High_res/create-a-pixel-art-illustration-or-gif.gif"></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1068778a2b8dbcb2a0b1b13258bdb7ed-1681040096/IT_office_closeup_highres/create-a-pixel-art-illustration-or-gif.gif"></picture></p>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Akurima&label=Profile%20views&color=0B0E13&style=flat" alt="scar1109" /> </p>
 
@@ -18,7 +18,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7k091qb9q17f23l1n0o.gif">
+  <img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif">
 
   
   </td>
@@ -48,9 +48,8 @@
 
 <h3 align="center">◽ Connect with Me ◽</h3>
 <p align="center">
-<a href="https://linkedin.com/in/imivanmartinez" target="blank"><span
-      style="color: white; text-decoration: none;font-size: 20px; font-family: Georgia, 'Times New Roman', Times, serif; text-shadow: 4px 5px 10px rgba(0, 0, 0, 0.52); margin-left: 10px;">LinkedIn :)</span></a>
-<a href="https://instagram.com/trywitheze" target="blank"><span style="color: white; text-decoration: none; font-size: 20px; font-family: Georgia, 'Times New Roman', Times, serif; text-shadow: 4px 5px 10px rgba(0, 0, 0, 0.52); " > Instagram :) </span></a>
+<a href="https://linkedin.com/in/imivanmartinez" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-512.png" alt="imivanmartinez" height="50" width="50" /></a>
+<a href="https://instagram.com/trywitheze" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/instagram_online_social_media_photo-512.png" alt="trywitheze" height="50" width="50" /></a>
 </p>
 
 ---
