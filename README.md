@@ -50,27 +50,8 @@
 <h3 align="center">◽ Connect with Me ◽</h3>
 <p align="center">
 <a href="https://linkedin.com/in/imivanmartinez" target="blank"><span
-      style="
-        color: white;
-        text-decoration: none;
-        font-size: 20px;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        text-shadow: 4px 5px 10px rgba(0, 0, 0, 0.52);
-      "
-    >
-      LinkedIn :)
-    </span></a>
-<a href="https://instagram.com/trywitheze" target="blank"><span
-      style="
-        color: white;
-        text-decoration: none;
-        font-size: 20px;
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        text-shadow: 4px 5px 10px rgba(0, 0, 0, 0.52);
-      "
-    >
-      Instagram :)
-    </span> /></a>
+      style="color: white; text-decoration: none;font-size: 20px; font-family: Georgia, 'Times New Roman', Times, serif; text-shadow: 4px 5px 10px rgba(0, 0, 0, 0.52); margin-left: 10px;">LinkedIn :)</span></a>
+<a href="https://instagram.com/trywitheze" target="blank"><span style="color: white; text-decoration: none; font-size: 20px; font-family: Georgia, 'Times New Roman', Times, serif; text-shadow: 4px 5px 10px rgba(0, 0, 0, 0.52); " > Instagram :) </span></a>
 </p>
 
 ---
