@@ -49,8 +49,28 @@
 
 <h3 align="center">◽ Connect with Me ◽</h3>
 <p align="center">
-<a href="https://linkedin.com/in/imivanmartinez" target="blank"><img align="center" src="https://www.flaticon.es/icono-gratis/instagram_1077042" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://instagram.com/trywitheze" target="blank"><img align="center" src="https://www.flaticon.es/icono-gratis/instagram_1077042" alt="trywitheze" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/imivanmartinez" target="blank"><span
+      style="
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-shadow: 4px 5px 10px rgba(0, 0, 0, 0.52);
+      "
+    >
+      LinkedIn :)
+    </span></a>
+<a href="https://instagram.com/trywitheze" target="blank"><span
+      style="
+        color: white;
+        text-decoration: none;
+        font-size: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-shadow: 4px 5px 10px rgba(0, 0, 0, 0.52);
+      "
+    >
+      Instagram :)
+    </span> /></a>
 </p>
 
 ---
