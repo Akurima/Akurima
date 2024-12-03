@@ -18,7 +18,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif">
+  <img align="center" alt="Coding" width="450" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1068778a2b8dbcb2a0b1b13258bdb7ed-1681040096/IT_office_closeup_highres/create-a-pixel-art-illustration-or-gif.gif">
 
   
   </td>
