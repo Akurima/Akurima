@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<p align="center"><picture align="center"><img align="center" src = "https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif"></picture></p>
+<p align="center"><img align="center" src = "https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif"></p>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Akurima&label=Profile%20views&color=0B0E13&style=flat" alt="scar1109" /> </p>
 
