@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<p align="center"><img align="center" src="https://w0.peakpx.com/wallpaper/582/516/HD-wallpaper-linux-programmer-pixel-art-linux-computer-hacker-pixel-8-bit.jpg"></p>
+<p align="center"><img align="center" src="https://w0.peakpx.com/wallpaper/582/516/HD-wallpaper-linux-programmer-pixel-art-linux-computer-hacker-pixel-8-bit.jpg" width="500" height="250"></p>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Akurima&label=Profile%20views&color=0B0E13&style=flat" alt="scar1109" /> </p>
 
