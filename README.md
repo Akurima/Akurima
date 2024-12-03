@@ -1,5 +1,5 @@
-<p align="center"><picture align="center"><img align="center" src = "https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"width="100" height="50"></picture></p>
-<h1 align="center">Hi 👋, I'm Akurima</h1>
+<p align="center"><picture align="center"><img align="center" src = "https://art.pixilart.com/sr2712ab0b35ecd.gif"width="300" height="200"></picture></p>
+<h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Akurima&label=Profile%20views&color=0B0E13&style=flat" alt="scar1109" /> </p>
 
@@ -35,7 +35,6 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Akurima&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Akurima&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
