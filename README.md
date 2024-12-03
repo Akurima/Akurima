@@ -1,5 +1,5 @@
-<p align="center"><picture align="center"><img align="center" src = "https://art.pixilart.com/sr2712ab0b35ecd.gif"width="300" height="200"></picture></p>
 <h1 align="center">Hi 👋, I'm Ivan</h1>
+<p align="center"><picture align="center"><img align="center" src = "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/113890dcec5607b287aeb3b86e2fc7b1-1680176427/IT-office_High_res/create-a-pixel-art-illustration-or-gif.gif"></picture></p>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Akurima&label=Profile%20views&color=0B0E13&style=flat" alt="scar1109" /> </p>
 
