@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif"width="100" height="50"></picture></p>
 <h1 align="center">Hi 👋, I'm Akurima</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Akurima&label=Profile%20views&color=0B0E13&style=flat" alt="scar1109" /> </p>
